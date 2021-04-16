@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "YpkyvOhB9LYcljTbAnsEUQgrslm1K0I7sma0we+GRuikzSzixBYqkD0OS16ZNHoxdOZkbPl80+VaHGR6vTMuxw==",
+  "dgSpecHash": "sxqIFbSolXArznathz5kfw6O9t+Sfx0lyEAGjo5LEEIXFMdMO6FhiWAHlU06wHx9nfZu3IQjJ9lED/6x5aEiRA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ProfesorMCSD\\Documents\\Visual Studio 2019\\Projects\\MvcAWSS3\\MvcAWSS3\\MvcAWSS3.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ProfesorMCSD\\.nuget\\packages\\awssdk.core\\3.7.0.13\\awssdk.core.3.7.0.13.nupkg.sha512",
+    "C:\\Users\\ProfesorMCSD\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.0.1\\awssdk.extensions.netcore.setup.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\ProfesorMCSD\\.nuget\\packages\\awssdk.s3\\3.7.0.14\\awssdk.s3.3.7.0.14.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\ProfesorMCSD\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\ProfesorMCSD\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\ProfesorMCSD\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\ProfesorMCSD\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\ProfesorMCSD\\.nuget\\packages\\microsoft.identitymodel.logging\\6.10.2\\microsoft.identitymodel.logging.6.10.2.nupkg.sha512",
+    "C:\\Users\\ProfesorMCSD\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.2\\microsoft.identitymodel.tokens.6.10.2.nupkg.sha512",
+    "C:\\Users\\ProfesorMCSD\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

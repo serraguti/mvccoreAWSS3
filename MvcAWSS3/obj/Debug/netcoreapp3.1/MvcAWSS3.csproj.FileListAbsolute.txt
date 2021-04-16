@@ -32,3 +32,11 @@ C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\Projects\MvcAWSS3\MvcAWSS3\ob
 C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\Projects\MvcAWSS3\MvcAWSS3\obj\Debug\netcoreapp3.1\MvcAWSS3.pdb
 C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\Projects\MvcAWSS3\MvcAWSS3\obj\Debug\netcoreapp3.1\MvcAWSS3.genruntimeconfig.cache
 C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\Projects\MvcAWSS3\MvcAWSS3\obj\Debug\netcoreapp3.1\MvcAWSS3.csproj.CopyComplete
+C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\Projects\MvcAWSS3\MvcAWSS3\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\Projects\MvcAWSS3\MvcAWSS3\bin\Debug\netcoreapp3.1\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\Projects\MvcAWSS3\MvcAWSS3\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\Projects\MvcAWSS3\MvcAWSS3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\Projects\MvcAWSS3\MvcAWSS3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\Projects\MvcAWSS3\MvcAWSS3\obj\Debug\netcoreapp3.1\Razor\Views\AWSFiles\Index.cshtml.g.cs
+C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\Projects\MvcAWSS3\MvcAWSS3\obj\Debug\netcoreapp3.1\Razor\Views\AWSFiles\ListFilesAWS.cshtml.g.cs
+C:\Users\ProfesorMCSD\Documents\Visual Studio 2019\Projects\MvcAWSS3\MvcAWSS3\obj\Debug\netcoreapp3.1\Razor\Views\AWSFiles\UploadFileAWS.cshtml.g.cs

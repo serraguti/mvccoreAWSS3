@@ -2,20 +2,27 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Amazon.S3;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using MvcAWSS3.Helpers;
+using MvcAWSS3.Services;
 
 namespace MvcAWSS3
 {
     public class Startup
     {
-        // This method gets called by the runtime. Use this method to add services to the container.
-        // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
+        public Startup(IConfiguration configuration) { }
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddAWSService<IAmazonS3>();
+            services.AddSingleton<PathProvider>();
+            services.AddSingleton<UploadHelper>();
+            services.AddTransient<ServiceAWSS3>();
             services.AddControllersWithViews();
         }
 
